@@ -1,1 +1,1 @@
-Tumor-Detection-Model(5/7/2024 to 20/7/2024)=Developed a Tumor detection model 
+Tumor-Detection-Model(5/7/2024 to 20/7/2024) : This project implements a tumor classification model using a sequential neural network. The model is designed to classify medical images into two classes: 'Tumor' and 'No Tumor.' The dataset comprises images resized to 64x64 pixels, and the classification is based on features extracted using a sequential neural network architecture.
